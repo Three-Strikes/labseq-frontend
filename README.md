@@ -8,6 +8,8 @@ Before running, be sure to install the following dependencies:
 
 Angular 21
 
+Node.js 24+
+
 And to install the project dependencies:
 
 ```bash
