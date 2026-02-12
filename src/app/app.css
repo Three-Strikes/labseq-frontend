@@ -1,0 +1,39 @@
+.card {
+    border: 1px solid white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.button {
+    border-radius: 5px;
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 10px 7px;
+}
+
+.button:active {
+    background-color: white;
+}
+
+.field {
+    border: 1px gray solid;
+    height: 40px;
+    width: 60%;
+    border-radius: 5px;
+}
+
+
+.max-width {
+    width: 100%;
+}
+
+.error {
+    color: red;
+}
